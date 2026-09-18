@@ -1,0 +1,12 @@
+{
+  "farm_id": 62,
+  "name": "cerebron-farm-62-embedded-firmware",
+  "domain": "embedded-firmware",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "embedded-firmware",
+    "mcu-fpga-rtos"
+  ],
+  "evidence_ceiling": "E2-before-real-tests"
+}
